@@ -299,7 +299,8 @@ header .navbar {
 	outline: none;
 	border-radius: 0px;
 	position: absolute;
-	right: 30px;
+	/*right: 30px;*/
+	right: 12px;
 	top: 20px;
 }
 .navbar .navbar-toggler-icon:after {
@@ -1009,7 +1010,8 @@ footer .inner-content p a {
 @media (max-width: 992px) {
 	.navbar .navbar-brand {
 		position: absolute;
-		left: 30px;
+		/*left: 30px;*/
+		left: 12px;
 		/* top: 32px; */
 		top: 20px;
 	}
